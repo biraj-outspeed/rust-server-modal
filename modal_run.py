@@ -25,6 +25,7 @@ image = (
 @app.function(
     image=image,
     min_containers=1,
+    allow_concurrent_inputs=100,
 )
 @modal.web_server(PORT)
 def my_file_server():

@@ -25,3 +25,7 @@ this will give you the URL to access the server. visiting it should return "Hell
 ```bash
 modal deploy --env <your-env-name> modal_run.py
 ```
+
+## how it works?
+
+see the [modal_run.py](./modal_run.py) file to understand how it works.

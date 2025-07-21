@@ -1,3 +1,7 @@
+# Rust Server on Modal
+
+this is a simple rust server that runs on [modal](https://modal.com).
+
 1. install [uv](https://docs.astral.sh/uv/getting-started/installation/)
 
 2. `uv sync`
